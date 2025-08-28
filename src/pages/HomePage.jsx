@@ -1,13 +1,14 @@
 import React from 'react';
+import HeroBanner from '../components/sections/HeroBanner';
 
 function HomePage() {
   return (
     <div className="text-center">
       {/* Tu código para la página de inicio */}
-      <h1>Página de Inicio</h1>
+      <HeroBanner></HeroBanner>
     </div>
   );
 }
 
-// Esta línea es la que te falta
+
 export default HomePage;

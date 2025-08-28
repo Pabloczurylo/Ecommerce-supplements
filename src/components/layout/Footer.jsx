@@ -12,7 +12,7 @@ function Footer() {
           <Col lg={6} md={12} className="mb-4 mb-md-0 text-center">
             <h5 className="text-uppercase">Pie de Página</h5>
             <p>
-              Matías gay. Que va a sortear el chancho?
+              Todos los derechos reservados © 2025
             </p>
           </Col>
         </Row>

@@ -14,3 +14,13 @@
 body {
   margin: 0;
 }
+
+.carousel-background {
+  min-height: 400px; /* Ajusta la altura según lo que necesites */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}

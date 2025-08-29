@@ -13,7 +13,7 @@ function App() {
         <main className="main-content">
           <Routes>
             <Route path="/" element={<HomePage />} />
-            {/* ... tus rutas */}
+            {/* ... las rutas */}
           </Routes>
         </main>
         <Footer />
